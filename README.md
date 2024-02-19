@@ -15,6 +15,7 @@
 <h2 align="center">📬 Contacto</h2>
 <p align="center">
 📧 Email: <a href="mailto:estrosebas@gmail.com">estrosebas@gmail.com</a><br>
+📧 Email: <a href="mailto:diegosebastiangonzalesgomez@gmail.com">estrosebas@gmail.com</a><br>
 🌐 LinkedIn: <a href="https://www.linkedin.com/in/diego-sebastian-gonzales-gomez-a9b0a1212/">Diego Sebastian Gonzales Gomez</a><br>
 🐦 Twitter: <a href="https://twitter.com/diegose02919828">@diegose02919828</a>
 </p>
